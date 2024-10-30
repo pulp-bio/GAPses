@@ -1,7 +1,7 @@
 # GAPses: 
 ## GAP9 based smart glasses for EEG and EOG acquisition and processing
 
-![Overview](GAPses/documents/images/main.png)
+![Overview](documents/images/main.png)
 
 # Introduction
 
@@ -18,7 +18,7 @@ GAPses are a pair of smart glasses for comfortable and fully dry acquisition and
 - **Secure HMI Demonstration**: GAPses showcases a two-step Human-Machine Interaction (HMI) use case, where EEG-based biometric recognition (BrainMetrics) unlocks the device, followed by EOG-based HMI with a high information transfer rate.
 - **End-to-End Edge Implementation**: The entire HMI use case, from BrainMetrics to EOG-based interactions, is processed on-device with GAP9’s ultra-low-power capabilities, enabling continuous, privacy-preserving operation on the edge.
 
-<img src="GAPses/documents/images/use_case.png" alt="Overview" width="600">
+<img src="documents/images/use_case.png" alt="Overview" width="600">
 
 ## System Diagram
 
@@ -27,7 +27,7 @@ The GAPses system comprises several key components:
 - **Electrode Interface PCB**: A flex-rigid PCB embedded in the frame with active signal buffering stages and a direct PCB to electrode interface, reducing interference and artifacts.
 - **Channel-Selection Interface PCB**: Allows users to switch between EEG-only and combined EEG-EOG configurations, optimizing channel selection for different use cases.
 
-![System Diagram](GAPses/documents/images/system_diagram.png)
+![System Diagram](documents/images/system_diagram.png)
 
 # Structure of the repository
 
