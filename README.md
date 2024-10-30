@@ -35,6 +35,7 @@ This repository has the following folders:
 
 - `hardware`, containing the Altium designer PCB source files and the frame design files 
     - Electrodes interface PCB (located at `hardware/PCBs/electrodes_interface_pcb`)
+	- Breakout PCB (located at `hardware/PCBs/breakout_pcb`)
     - Frame files (located at `hardware/frame`)
 
 - `documents`, containing the project documentation
