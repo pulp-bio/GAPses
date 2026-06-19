@@ -4,4 +4,4 @@ Each subdirectory corresponds to a separate PCB project. Inside you can find the
 
 
 # License
-The PCB design files are licensed under Solderpad v0.51 (`SHL-0.51`) license. Please, check the `Hardware/LICENSE` file for details.
+The PCB design files are licensed under Solderpad v0.51 (`SHL-0.51`) license. Please, check the [hardware/PCBs/LICENSE](./LICENSE) file for details.
